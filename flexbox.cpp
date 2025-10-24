@@ -11,38 +11,33 @@
     <header>
       <h1>Conceitos de Flexbox</h1>
       <nav>
-        <a href="index.html">Início</a>
+        <a href="index.html">Inicio</a>
         <a href="grid.html">Grid</a>
       </nav>
     </header>
 
     <main>
       <section>
-        <h2>O que é Flexbox?</h2>
+        <h2>O que e Flexbox</h2>
         <p>
-          O Flexbox (Flexible Box Layout) é um modo de layout do CSS que permite
-          organizar os elementos de forma mais fácil, flexível e responsiva. Ele
-          é ótimo para alinhar itens em linhas ou colunas.
+          O Flexbox e um tipo de layout do CSS que ajuda a organizar os
+          elementos da pagina de um jeito mais facil e responsivo. Ele serve
+          para alinhar os itens em linha ou em coluna.
         </p>
       </section>
 
       <section>
         <h2>Propriedades principais</h2>
         <ul>
-          <li>
-            <b>display: flex;</b> → ativa o comportamento flexível no container.
-          </li>
-          <li><b>justify-content:</b> → alinha os itens horizontalmente.</li>
-          <li><b>align-items:</b> → alinha os itens verticalmente.</li>
-          <li>
-            <b>flex-direction:</b> → define a direção dos itens (linha ou
-            coluna).
-          </li>
+          <li><b>display: flex;</b></li>
+          <li><b>justify-content:</b></li>
+          <li><b>align-items:</b></li>
+          <li><b>flex-direction:</b></li>
         </ul>
       </section>
 
       <section>
-        <h2>Exemplo prático</h2>
+        <h2>Exemplo pratico</h2>
         <div class="flex-container">
           <div class="item">1</div>
           <div class="item">2</div>
@@ -52,7 +47,7 @@
     </main>
 
     <footer>
-      <p>Feito por Gabryele Camargo - Trabalho</p>
+      <p>Feito por Gabryele Camargo - Trabalho de Front-end</p>
     </footer>
   </body>
 </html>
